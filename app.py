@@ -20,7 +20,7 @@ class User:
 
 
 users = []
-users.append(User(id=1, username='Anthony', password='password'))
+users.append(User(id=1, username='tommy', password='password'))
 users.append(User(id=2, username='Jose', password='secret'))
 
 print(users[1].id)
